@@ -1,3 +1,4 @@
 GitHubわからないよ～
 GitHubちょっとわかってきた！
 git diffをやってみた。
+git commit --amend
