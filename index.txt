@@ -1,2 +1,3 @@
 GitHubわからないよ～
 GitHubちょっとわかってきた！
+git diffをやってみた。
