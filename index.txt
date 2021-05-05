@@ -3,3 +3,5 @@ GitHubちょっとわかってきた！
 git diffをやってみた。
 git commit --amend
 git merge
+コンフリクト
+プルリクエスト
